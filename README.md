@@ -27,5 +27,5 @@ A simple yet effective web app that predicts whether a movie review expresses **
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/sentiment-analyzer.git
+git clone https://github.com/yghodak/sentiment-analyzer.git
 cd sentiment-analyzer
