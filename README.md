@@ -22,3 +22,5 @@ A simple yet effective web app that predicts whether a movie review expresses **
 3. Model and vectorizer are saved using `joblib` for reuse.
 
 ---
+
+Made by Yash Ghodake ✨
