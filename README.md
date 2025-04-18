@@ -22,10 +22,3 @@ A simple yet effective web app that predicts whether a movie review expresses **
 3. Model and vectorizer are saved using `joblib` for reuse.
 
 ---
-
-## 🛠️ Installation
-
-### 1. Clone the Repo
-```bash
-git clone https://github.com/yghodak/sentiment-analyzer.git
-cd sentiment-analyzer
